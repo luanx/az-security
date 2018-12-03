@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>az-center</module>
+        <module>az-common</module>
     </modules>
     <packaging>pom</packaging>
     <url>https://github.com/luanx/az-security</url>
